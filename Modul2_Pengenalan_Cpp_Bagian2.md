@@ -8,18 +8,18 @@
 <br>
 
 **Disusun oleh:**<br>
-[Nama Lengkap] — [NIM]<br>
+[Ahmad Luthfi Habibie] — [109082500190]<br>
 Kelas: [Kelas]
 
-**Dosen Pengampu:** [Nama Dosen]<br>
-**Asisten Praktikum:** [Nama Asisten]
+**Dosen Pengampu:** [Rakhmad Maulidi S.Kom., M.Kom.]<br>
+**Asisten Praktikum:** [Aedil Risky Ansyah & Shellyn ]
 
 <br>
 
-**PROGRAM STUDI [NAMA PROGRAM STUDI]**<br>
-**FAKULTAS [NAMA FAKULTAS]**<br>
-**TELKOM UNIVERSITY**<br>
-**[TAHUN AJARAN]**
+**PROGRAM STUDI [S1 INFORMATIKA]**<br>
+**FAKULTAS [INFORMATIKA]**<br>
+**TELKOM UNIVERSITY PURWOKERTO**<br>
+**[2026/2027]**
 
 </div>
 
