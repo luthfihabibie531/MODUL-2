@@ -9,7 +9,7 @@
 
 **Disusun oleh:**<br>
 [Ahmad Luthfi Habibie] — [109082500190]<br>
-Kelas: [Kelas]
+Kelas: [S1IF-13-01]
 
 **Dosen Pengampu:** [Rakhmad Maulidi S.Kom., M.Kom.]<br>
 **Asisten Praktikum:** [Aedil Risky Ansyah & Shellyn ]
