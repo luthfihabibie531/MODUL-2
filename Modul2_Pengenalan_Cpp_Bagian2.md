@@ -474,6 +474,7 @@ Program menyiapkan lima array dua dimensi berukuran 3×3: `A` dan `B` untuk masu
 
 Sebagai contoh, dengan `A` berisi angka 1 sampai 9 dan `B` berisi angka 9 sampai 1, elemen pertama hasil perkalian dihitung (1×9) + (2×6) + (3×3) = 30. Hasil ini sesuai dengan output program.
 
+output program [Cuplikan layar 2026-10-05 232545.png]
 **Output program:**
 
 ```text
